@@ -32,8 +32,7 @@ import org.springframework.context.annotation.Configuration;
 // starting in the current package
 @ComponentScan
 //This annotation tells Spring that this class contains configuration
-//information
-//for the application.
+//information for the application.
 @Configuration
 public class Application {
 

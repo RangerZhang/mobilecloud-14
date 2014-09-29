@@ -46,6 +46,7 @@ import java.util.Collection;
 
 import org.magnum.dataup.model.Video;
 import org.magnum.dataup.model.VideoStatus;
+import org.springframework.web.bind.annotation.PathVariable;
 
 import retrofit.client.Response;
 import retrofit.http.Body;
